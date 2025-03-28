@@ -1,6 +1,7 @@
 {
   "name": "fish-website",
   "version": "0.1.0",
+  "homepage": "https://wenwenyang4.github.io/fish-website",
   "private": true,
   "dependencies": {
     "@emotion/react": "^11.11.0",
